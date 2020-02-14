@@ -16,4 +16,4 @@
 Stacey Lorraine Bonareri
 
 ## LIVE PAGE
-[Open Live Page](https://staceybonareri/github.io/STACEYPORTFOLIO)
+[Open Live Page](https://staceybonareri.github.io/STACEYPORTFOLIO)
